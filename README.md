@@ -17,7 +17,7 @@ Uma tela de carregamento para Roblox que exibe progresso de pré-carregamento de
 ## Instalação
 1. Crie um LocalScript (em `ReplicatedFirst`).
 2. Cole o conteúdo do script de loading dentro do LocalScript.
-3. Crie um Script em `ServerScriptService` com o nome qualquer.
+3. Crie um Script em `ServerScriptService` com o nome qualquer e copie o Script e cole dentro do Script criado.
 4. Verifique se as `Teams` existem em `Teams` com os nomes que serão exibidos.
 
 ## Uso básico
